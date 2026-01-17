@@ -1,5 +1,5 @@
 💳 TailwindPay — Payment UI with Tailwind CSS
-
+```text
 A modern, fully responsive payment interface website built using Tailwind CSS, inspired by real-world fintech platforms like Razorpay and Stripe.
 Focused on clean UI architecture, reusable components, and production-style layout practices.
 
